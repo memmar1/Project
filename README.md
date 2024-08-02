@@ -1,5 +1,5 @@
 # Forecasting Forex Exchange Rates Using Time Series Models: A Case Study of USD/KSH and USD/UGX
-![foreign-exchange](https://github.com/user-attachments/assets/d440ab92-7b00-4124-b748-b1a4b00f726e)
+![foreign-exchange-1024x684](https://github.com/user-attachments/assets/74c9c4cc-a451-4bbc-8d8d-45771c2e79fe)
 
 ## Objective
 
