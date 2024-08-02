@@ -1,5 +1,4 @@
-# Forecasting Forex Exchange Rates Using Time Series Models
-# A Case Study of USD/KSH and USD/UGX
+# Forecasting Forex Exchange Rates Using Time Series Models: A Case Study of USD/KSH and USD/UGX
 
 ## Objective
 
@@ -21,19 +20,20 @@ Use OANDA API
 - Clean and handle missing values.
 - Perform feature engineering 
 - Normalize the data for consistent scaling.
-- 
+  
 ### Exploratory Data Analysis (EDA)
 - Visualize the time series data and identify trends and seasonality.
 - Calculate statistical properties such as mean, variance, and autocorrelation.
-- 
+  
 ### Model Development
 - ARIMA (Auto Regressive Integrated Moving Average)
 - LSTM (Long Short-Term Memory)
-- 
+  
 ### Model Evaluation
 - Split data into training and testing sets. 
 - Use cross-validation to tune model hyperparameters.
 - Evaluate models using metrics like RMSE and MAE
+  
 ### Tools and Technologies
 - Programming Language: Python
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, Plotly
