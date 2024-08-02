@@ -36,7 +36,7 @@ The data will be extracted using an API from https://www.alphavantage.co/support
   
 ### Tools and Technologies
 - Programming Language: Python
-- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, Plotly
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, Plotly, alpha_vantage
 - Environment: Jupyter Notebooks
 
 ### Expected Outputs
