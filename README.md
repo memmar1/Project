@@ -9,12 +9,12 @@ The objective of this project is to develop a predictive model for forecasting f
 Foreign exchange rates play a crucial role in global financial markets. For foreign expatriates, knowing the optimal times to exchange USD to local currencies can lead to significant financial benefits. In addition accurate forecasting of these rates can benefit traders, investors, and policymakers.
 
 ## Data Source: 
-- ALPHA VANTAGE: Alpha Vantage provides realtime and historical financial market data through a set of powerful and developer-friendly data APIs and spreadsheets. 
+- ALPHA VANTAGE: Alpha Vantage provides realtime and historical financial market data through a set of powerful and developer-friendly data APIs and spreadsheets. https://www.alphavantage.co/
 
 ## Methodology
 
 ### Data Collection:
-The data will be extracted using an API from https://www.alphavantage.co/
+The data will be extracted using an API from https://www.alphavantage.co/support/#api-key
 
 ### Data Preprocessing
 - Clean and handle missing values.
