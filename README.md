@@ -1,4 +1,4 @@
-# Project title: Forecasting Forex Exchange Rates Using Time Series Models, A Case Study of USD/KSH and USD/UGX
+# Forecasting Forex Exchange Rates Using Time Series Models, A Case Study of USD/KSH and USD/UGX
 
 ## Objective
 
