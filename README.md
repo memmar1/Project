@@ -1,5 +1,6 @@
 # Forecasting Forex Exchange Rates Using Time Series Models: A Case Study of USD/KSH and USD/UGX
-![bbbbb](https://github.com/user-attachments/assets/d6cccd03-c721-4081-88f6-0c6cfc29f920)
+![Pic1](https://github.com/user-attachments/assets/7a5e665d-8e18-44fe-a523-cd4c1ec3e816)
+
 ## Objective
 
 The objective of this project is to develop a predictive model for forecasting future exchange rates of USD/KSH (US Dollar to Kenyan Shilling) and USD/UGX (US Dollar to Ugandan Shilling). 
