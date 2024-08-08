@@ -28,6 +28,7 @@ The data will be extracted using an API from https://www.alphavantage.co/support
   
 ### Model Development
 - ARIMA (Auto Regressive Integrated Moving Average)
+- SARIMA
 - LSTM (Long Short-Term Memory)
   
 ### Model Evaluation
